@@ -7,4 +7,4 @@ Observations:
 
 2) Ketapril, on the other hand, seems to have a negative effect overall and encourage tumor volume growth more than all other treatments. While these adverse effects aren't so noticable at first, towards the end of the treatment phase the rate of metastatic spread increases at a quicker rate than all other treatments (including placebo). 
 
-#)Infubinol, while shown to decrease metastatic spread, has the lowest rate of survival during treatment and the least smooth decline in this respect as well. 
+3)Infubinol, while shown to decrease metastatic spread, has the lowest rate of survival during treatment and the least smooth decline in this respect as well. 
